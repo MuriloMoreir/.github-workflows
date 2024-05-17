@@ -24,3 +24,7 @@ jobs:
 
         - name: usando o USES
           uses: actions/checkout@v4
+
+        - name: Passa AMO
+          run: |
+             echo EU AMO DEVOPS
